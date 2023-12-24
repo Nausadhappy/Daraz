@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HTML</title>
+  
+  
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+  <header>
+    <nav>
+      <div class="navbar">
+      <ul>
+        <li>Become a Seller</li>
+        <li>Payments & Recharge</li>
+        <li>Help & Support</li>
+        <li>Daraz Logistics Partner</li>
+        <div class="logo"><img src="/O1CN01Ie2YnK1JmZ1mL3fY5_!!6000000001071-2-tps-60-60.png"><p>sav more app</p></div>
+      </ul>
+     </div>
+    </nav>
+    <div class="pannel">
+      <img src="/e6ac6883-1158-4663-bda4-df5a1aa066e5.png">
+     
+      <input type="texr" placeholder= "search in Daraz">
+       
+         
+      
+      
+    <p class="pr"> <i class="fa-solid fa-user-plus"></i> Login  |  sing up </p >
+    <select class="web">
+    <option>🌐Nep</option>
+     <option>🌐Eng</option>
+    </select>
+    <div class="cart">
+    <i class="fa-solid fa-cart-shopping"></i>
+    </div>
+    </div>
+  </header>
+  <!-- Project -->
+  
+  
+  
+  <main>
+    <div class="main1">
+    <div class="items">
+      <ul>
+        <li>Women Fashion </li>
+        <li>Health & Beauty</li>
+        <li>Men fashion</li>
+        <li>Watch & Accessories</li>
+        <li>Electronic Device</li>
+        <li> Book & Notes </li>
+        <li> Sport & Game</li>
+        <li> Mobile </li> 
+        <li> Shoes </li>
+        <li> food & Fruit </li>
+        <li> Pen & Pencil </li>
+        <li> School dress</li>   
+      </ul>
+    </div>
+    <div class="slide">
+      <img src="/371487df-1c25-4f00-8c0c-333e59b98336.jpg">
+      <img src="/c3367491-ba5c-4c7a-988b-b2accbe46b77.jpg">
+      <img src="/ce0928f8-5a56-4f59-959c-53c02bae0686.png">
+      </div>
+    </div>
+    <div class="shop">
+      <img src="/ce0928f8-5a56-4f59-959c-53c02bae0686.png">
+      
+    </div>
+    <div class="logi">
+      <div class="logo2">
+      <img src="/items/1dc5d1b0-5779-4f00-85ba-6a59b7f31bd5.png" >
+        <p> men's fashion</p>
+      </div>
+       <div class="logo2">
+      <img src="/items/e47541ab-c795-4d43-9c06-3b5d05be9039.png" >
+        <p> proud Nepali</p>
+      </div>
+       <div class="logo2">
+      <img src="/items/a0bb860f-bfde-4312-8f6e-5443943bc08a.png" >
+        <p> Hobbies </p>
+      </div>
+       <div class="logo2">
+      <img src="/items/9e96da98-1e0b-4853-96ea-5d3b34cefcae.png" >
+        <p> Home & decurion </p>
+      </div>
+       <div class="logo2">
+      <img src="/items/954e1f79-84f7-4706-affd-bc87a445cc05.png" >
+        <p> women fashion</p>
+      </div>
+       <div class="logo2">
+      <img src="/items/6d5b2a97-dae5-43fb-a2e6-30e780c8fb2c.png" >
+        <p> mart</p>
+      </div>
+       <div class="logo2">
+      <img src="/items/5f792324-7236-45ec-86ab-80f99af9fb0c.png" >
+        <p> Fashion </p>
+      </div>
+       <div class="logo2">
+      <img src="/items/4a762f23-9df1-4960-abb2-c0179b99a9c9.png" >
+        <p> Watch </p>
+      </div>
+    </div>
+      <h4> flase sales </h4>
+    <div class="box">
+      <div class="ending">
+     <a href="https://pages.daraz.com.np/wow/gcp/daraz/daily/np/12/12/2023/sale-is-live?pfilter=1010Badge_390289&scm=1003.4.icms-zebra-100031662-3734717.OTHER_6502836430_7755159"> on sale now </a>
+     <p>Ending in 
+     <div>
+     <button>20</button>
+     <button>10</button>
+     <button>26</button>
+    </div>
+     </p>
+     <button class="shop2">shop more</button>
+     </div>
+   
+     <div class="flex">
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      <div class="product">
+        <div class="img">
+          
+        </div>
+        
+        <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      <br>
+      <div class="price2">
+      <p>Rs.3199 </p> <span> -8% </span>
+      </div>
+      </div>
+      
+      </div>
+    </div>
+    
+    
+    <!-- Send Product -->
+              
+
+    <div class="box2">
+                
+      <div class="ending2">
+                <h5 class="sales"> flase sales </h5>
+     <button class="shop3">shop more ></button>
+             
+     </div>
+   
+     <div class="flex4">
+      <div class="product2">
+         
+        <div class="img2">
+           
+        </div>
+          <div class="center"> </div>
+        
+        <p class="h42"> bagmati palatic
+       </p>
+       
+      <p class="copy">bagmati palatic</p>
+      
+      </div>
+     
+     
+      <div class="product2">
+         
+        <div class="img3">
+           
+        </div>
+          <div class="center2"> </div>
+        
+        <p class="h42"> Phulchok Book 
+       </p>
+       
+      <p class="copy">phulchok Book</p>
+      
+      </div>
+     
+          
+            <div class="product2">
+         
+        <div class="img4">
+           
+        </div>
+          <div class="center4"> </div>
+        
+        <p class="h42"> Phulchok Book 
+       </p>
+       
+      <p class="copy">phulchok Book</p>
+      
+      </div>
+                 <div class="product2">
+         
+        <div class="img5">
+           
+        </div>
+          <div class="center5"> </div>
+        
+        <p class="h42"> Phulchok Book 
+       </p>
+       
+      <p class="copy">phulchok Book</p>
+      
+      </div>
+          </div>
+        
+    <!--third part-->
+    
+    <p class="ct4">catrogary</p>
+    <div class="t3">
+      <div class="ft3"> 
+      <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+       
+     
+      </div>
+      
+            <div class="ft3"> 
+      <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/ce5e3d0b634cbf3075ff477ac77cad60.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/0fc99acb3dbe9e019221c02bcc87b0d5.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/28a995be10fca9a671f03747b7ff1c57.png">
+        </div>
+         <p>fashion </p>
+       </div>
+             <div class="pic">
+        <div class="picunder">
+          <img src= "/tp/216d901e3c9185562b5720d0cfb993ef.jpg">
+        </div>
+         <p>fashion </p>
+       </div>
+       
+     
+      </div>
+    </div>
+    
+    <!-- center part -->
+      <p class="just"> Just for you </p>
+   <div class="container">
+    
+<div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ </div>
+ 
+   <div class="container2">
+    
+<div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ </div>
+    <div class="container">
+    
+<div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ </div>
+ 
+   <div class="container2">
+    
+<div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ <div class="foryou">
+  <div class="foryou2">
+  <img src="/pr/137576f71f8bb8da3e8cff5c7e75a562.jpg_400x400q75-product.jpg_.webp">
+  </div>
+   <p class="h4">boAt WAVE HYPE |Bluetooth Calling....... 
+       </p>
+       
+      <p class="price">Rs.3199 </p>
+      
+      <div class="price3">
+      <p>Rs.3199 </p> <span> -8% </span>
+  
+</div>
+  <div>
+  <p class="star">⭐⭐⭐⭐⭐(122)</p>
+ </div>
+ </div>
+ </div>
+
+  </main>
+  <!-- footer part-->
+  
+  
+  <footer>
+    <div class="service">
+      <div class="care">
+        <h5>customer care</h5>
+        <ul>
+          <li>Help center</li>
+           <li>How to buy</li>
+            <li>Return & Refund</li>  
+             <li>contact us</li>
+        </ul>
+      
+           <div class="earn">
+        <h5>Earn with Daraz</h5>
+        <ul>
+          <li>Daraz university</li>
+           <li>sell on Daraz</li>
+            <li>code of conduct</li>  
+        </ul>
+        </div>
+      </div>
+      <div class="Daraz">
+          <h5>Daraz</h5>
+        <ul>
+          <li>About Daraz</li>
+           <li>Carreres</li>
+            <li>Daraz Blog</li>
+            <li>Terms & Conditions</li>
+           <li>parvaicy police</li>
+            <li>Digital payment</li> 
+           <li>Daraz customer University</li>
+           <li>Daraz affidavit program</li>
+            <li>Review & win</li>  
+            <li>Meet the winners</li> 
+      </div>
+      <div class="international">
+        <h5>Daraz International </h5>
+        <div class="inp">
+        <p>🇵🇰 Pakistan </p>
+          <p>🇧🇩 Bangladesh </p>
+     </div>
+     <div class="inp">
+     <p>🇲🇲 Myanmar</p>
+     <p>🇱🇰  sri lank</p>
+     </div>
+    <div class="inp">
+   <p>🇳🇵 Nepal </p>
+     </div> 
+     <div class="method">
+       <h5>Payment Method </h5>
+       <div class="payments-method">
+       <div class="visa"> </div>
+        <div class="visa"> </div>
+         <div class="visa"> </div>
+          <div class="visa"> </div>
+       </div>
+        
+        
+        <div class="verified">
+          <h5>verified by</h5>
+          <div class="visa">
+            
+          </div>
+        </div>
+          </div>
+     </div>
+     <div class="Data">
+   <h5> Exclusive Deals and offers</h5>
+   <div class="visa1f">
+   <div class="visa1"> </div>
+   <div>
+   <div class="visa2"> </div>
+   <div class="visa2"> </div>
+   <div class="visa2"> </div>
+   
+   </div> 
+   </div>
+   <h5>Happy Daraz</h5>
+   <div class="visa3"> </div>
+      <h5>Follow us</h5>
+      <div class="visa4f">
+   <div class="visa4"> </div>
+    <div class="visa4"> </div>
+     <div class="visa4"> </div> 
+      <div class="visa4"> </div>
+      </div>
+    </div>
+      </div>
+    </div>
+    <!-- last Footer -->
+    
+    
+      <div class="footerlast">
+        <div class="care">
+        <h6>Experience Hassle-Free Online Shopping in Nepal with Daraz</h6>
+      <p>E-commerce has evolved over the past few years and since it’s easier and
+      more <>convenient, it is
+      evident that customers are 
+      actually switching to the
+      trend of online shopping. 
+      Daraz, the Nepali shopping
+      store, brings a whole new concept
+      by showcasing a number of
+      famous brands under one roof.
+      Not only does it fulfill clothing necessities of both men and women but you can also shop for all kinds of appliances like air conditioners, heaters, refrigerators, LED TVs and a lot more. Simply select your favorite brand like Samsung, Apple, HP, Huawei, Dell, Canon, Nikon, etc and get yourself the best electronic item </p>
+           <div class="earn">
+        <h6>Convenient Online Shopping in Nepal</h6>
+        <p>Daraz is the ultimate Nepali eCommerce website that offers a solution for all needs of the customers. It has a wide and assorted range of products including clothing, electronics, mobile phones, home and living, health and beauty and much more.
+
+Daraz strives to provide customers the best shopping experience in Nepal. The online store</p>
+        </div>
+      </div>
+      <div class="Daraz">
+       <p>pdated daily and new products are added every day to cater to all your needs. Visit Daraz.com.np to experience shopping in Nepal as never before. Don't forget to Download Daraz App and get exclusive discounts.
+<br>
+Daraz is a global online marketplace with ecommerce stores in Pakistan, Bangladesh, Nepal, Sri Lanka and Myanmar.
+
+<h6>General Information:</h6>
+
+Daraz Kaymu Private Limited
+Kathmandu Metropolitan City, Ward No. 11,Thapathali,Kathmandu, Nepal
+VAT No. 602403687
+
+<h6>Grievance handling Information:</h6>
+
+Grievance Management
+015970597 (please ask to be redirected to our Grievance Management team)</p>
+      
+      <div class="international">
+        <h6> Trading</h6>
+        <p><a class="none"href="#">
+          Daraz 11.11 Sale. 12 sales . Darius dhanaka. good morning beautiful lady I hope you are well and your mum is a good girl and you are a good girl and you are a good girl and you are a good girl and you are Nepal 
+          
+        </a></p>
+        </div>
+        </div>
+        
+     <div class="method">
+       <h6>Top Categories & Brands</h6>
+       <p>pdated daily and new products are added every day to cater to all your needs. Visit Daraz.com.np to experience shopping in Nepal as never before. Don't forget to Download Daraz App and get exclusive discounts.
+
+Daraz is a global online marketplace with ecommerce stores in Pakistan, Bangladesh, Nepal, Sri Lanka and Myanmar.
+
+<h6>General Information:</h6>
+
+Daraz Kaymu Private Limited
+Kathmandu Metropolitan City, Ward No. 11,Thapathali,Kathmandu, Nepal
+VAT No. 602403687
+
+Grievance handling Information:
+
+Grievance Management
+015970597 (please ask to be redirected to our Grievance Management team)</p>
+       
+       </div>
+            <div class="method">
+       <h6>Top Categories & Brands</h6>
+       <p>pdated daily and new products are added every day to cater to all your needs. Visit Daraz.com.np to experience shopping in Nepal as never before. Don't forget to Download Daraz App and get exclusive discounts.
+
+Daraz is a global online marketplace with ecommerce stores in Pakistan, Bangladesh, Nepal, Sri Lanka and Myanmar.
+
+<h6>General Information:</h6>
+
+Daraz Kaymu Private Limited
+Kathmandu Metropolitan City, Ward No. 11,Thapathali,Kathmandu, Nepal
+VAT No. 602403687
+
+<h6>Grievance handling Information:</h6>
+
+Grievance Management
+015970597 (please ask to be redirected to our Grievance Management team)</p>
+       
+       </div>
+          </div>
+      <footer class="div"> 
+      <div class=" copy">
+       @ Copyright 2024 Daraz have a Copy right 
+      </div>
+      </footer>
+  </footer>
+  <script src="main.js"></script>
+</body>
+</html>
